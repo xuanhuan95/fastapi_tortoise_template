@@ -1,0 +1,6 @@
+__pycache__
+.vim
+venv
+app/.env
+.venv/
+.coverage
