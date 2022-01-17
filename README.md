@@ -55,3 +55,9 @@ aerich upgrade # apply migration change
 ### Health Check
 
 - Access to <http://localhost:8000/health_check>
+
+## Documents
+
+- FastApi: <https://fastapi.tiangolo.com/>
+- Tortoise ORM: <https://tortoise-orm.readthedocs.io/en/latest/getting_started.html>
+- Aerich: <https://github.com/tortoise/aerich>
